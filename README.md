@@ -1,4 +1,3 @@
-# Code Retreat at IBM Littleton
 # Conway's Game of Life
 
 
